@@ -14,3 +14,10 @@ A few resources to get you started if this is your first Flutter project:
 The code is organized in a structured manner. It includes a DummyData model that you've utilized, as well as a model for the final data representation. While structuring APIs would have enhanced the implementation, I've made the most of the available data.
 
 Moreover, I've encapsulated the UI components as widgets, and you'll discover these within the designated widget directories. Specifically, the pie chart implementation can be found in the 'Charts' directory.
+
+![alt text](https://github.com/mostafahakak/FlutterTask/blob/main/Screen1.jpg)
+
+![alt text](https://github.com/mostafahakak/FlutterTask/blob/main/Screen2.jpg)
+
+Here you can find if you press on the chart the percentage will appear and if you press again it will disappear
+![alt text](https://github.com/mostafahakak/FlutterTask/blob/main/Screen3.jpg)
